@@ -1,4 +1,5 @@
 FROM frolvlad/alpine-glibc:alpine-3.10 as build
+LABEL maintainer="Velimir Stoleski <velimirr@gmail.com>"
 
 ENV TMOD_VERSION=0.11.8
 ENV TERRARIA_VERSION=1353
