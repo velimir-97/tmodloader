@@ -10,4 +10,4 @@ curl -SL "https://github.com/tModLoader/tModLoader/releases/download/v$TMOD_VERS
 rm -r lib tModLoader.bin.x86 tModLoaderServer.bin.x86
 chmod u+x tModLoaderServer*
 
-/terraria/tModLoaderServer
+/terraria-server/tModLoaderServer
