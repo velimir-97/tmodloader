@@ -1,0 +1,1 @@
+This docker image is not complete and it not made to work standalone.

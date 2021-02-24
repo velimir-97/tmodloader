@@ -12,7 +12,7 @@ WORKDIR /terraria
 
 EXPOSE 7777
 
-COPY setup.sh /terraria/setup.sh
-RUN chmod +x /terraria/setup.sh
+# COPY setup.sh /terraria/setup.sh
+# RUN chmod +x /terraria/setup.sh
 
-ENTRYPOINT ["/terraria/setup.sh"]
+# ENTRYPOINT ["/terraria/setup.sh"]
