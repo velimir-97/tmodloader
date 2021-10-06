@@ -1,6 +1,6 @@
 FROM mono
 
-LABEL maintainer="Velimir Stoleski <velimirr@gmail.com>"
+LABEL maintainer="Velimir Stoleski <velimirr97@gmail.com>"
 
 ENV TMOD_VERSION=0.11.8
 ENV TERRARIA_VERSION=1353
